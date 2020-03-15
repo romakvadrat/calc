@@ -24,7 +24,8 @@ function back() {
 
 document.querySelector('.eq').addEventListener('click', calc);
      function calc() {
-         display.value = eval(display.value);   
+         display.value = eval(display.value); 
+
          
 }
 
